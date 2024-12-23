@@ -220,8 +220,7 @@ body {
 
     .socials {
         width: 100vw;
-        height: 150px;
+        height: 100px;
         align-items: center;
-        padding-bottom: 20px;
     }
 }

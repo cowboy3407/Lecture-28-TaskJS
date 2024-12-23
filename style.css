@@ -110,7 +110,7 @@ body {
 } 
 
  .socials {
-    height: 170px;
+    height: 250px;
     display: flex;
     gap: 32px;
     justify-content: center;
@@ -203,6 +203,8 @@ body {
 
     .socials {
         width: 100vw;
+        height: 150px;
         align-items: center;
+        padding-bottom: 20px;
     }
 }
